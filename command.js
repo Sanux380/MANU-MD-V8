@@ -1,6 +1,6 @@
 /*════════════════════════════════════════════════════════════════════════════
                                                                             
-   ⚡️ 𝗠𝗔𝗡𝗨-𝗠𝗗 𝐁𝐎𝐓 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
+   ╰🚀𝗦𝗔𝗡𝗡𝗨 𝗞𝗜𝗡𝗚 𝐁𝐎𝐓 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 7.0 🚀╯                                    
                                                                             
      🤖 Multi-functional WhatsApp User Bot by 𝚂𝙰𝙽𝙽𝚄 Official               
      🔗 GitHub   : https://github.com/manulofficial7                        
